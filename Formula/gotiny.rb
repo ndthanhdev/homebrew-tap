@@ -1,8 +1,8 @@
 class Gotiny < Formula
     desc "Using gotiny.cc from the command-line"
     homepage "https://github.com/ndthanhdev/gotiny-cli"
-    url "https://github.com/ndthanhdev/gotiny-cli/archive/refs/tags/v1.0.6.tar.gz"
-    sha256 "4fb9a57428ea07086b3bafd412556e5b358433add50a4288dbeb96a34c909850"
+    url "https://github.com/ndthanhdev/gotiny-cli/archive/refs/tags/v1.0.7.tar.gz"
+    sha256 "ffa95d31c2479df35a0128f5faa91bff0ebb53677fdfd1f82229db29a027cdcd"
     license "MIT"
   
     depends_on "go" => :build
